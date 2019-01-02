@@ -1,0 +1,12 @@
+[package]
+name = "fractals-bot"
+version = "0.1.0"
+authors = ["curli"]
+edition = "2018"
+
+[dependencies]
+serenity = "0.5"
+kankyo = "0.2"
+image = "*"
+num-complex = "0.2.1"
+reqwest = "0.9.5"
